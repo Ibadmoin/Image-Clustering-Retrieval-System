@@ -148,7 +148,8 @@ Here are some screenshots of the application in action:
 ![Home Page](assets/screenshots/home.png)
 
 ### Image Upload & Search Results
-![Search Results](assets/screenshots/search_results.png)
+![Search Results](assets/screenshots/search_results(1).png)
+![Search Results](assets/screenshots/search_results(2).png)
 
 ### Clustering Visualization
 ![Clustering](assets/screenshots/clustering.png)
