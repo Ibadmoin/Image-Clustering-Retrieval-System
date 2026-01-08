@@ -152,7 +152,8 @@ Here are some screenshots of the application in action:
 ![Search Results](assets/screenshots/search_results(2).png)
 
 ### Clustering Visualization
-![Clustering](assets/screenshots/clustering.png)
+![Clustering](assets/screenshots/clustering_2d.png)
+![Clustering](assets/screenshots/clustering_3d.png)
 
 ---
 
