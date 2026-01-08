@@ -157,4 +157,4 @@ test_similar_images.py
 verify_artifacts.py
 
 # Data folder
-data/
+data/train/
