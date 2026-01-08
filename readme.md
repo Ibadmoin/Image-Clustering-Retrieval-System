@@ -145,7 +145,7 @@ MLSEMProj/
 Here are some screenshots of the application in action:
 
 ### Home Page
-![Home Page](assets/home.png)
+![Home Page](assets/screenshots/home.png)
 
 ### Image Upload & Search Results
 ![Search Results](assets/screenshots/search_results.png)
