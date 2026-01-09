@@ -197,6 +197,7 @@ This is a group project developed by:
 
 <a href="https://github.com/Ibadmoin/Image-Clustering-Retrieval-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Ibadmoin/Image-Clustering-Retrieval-System" />
+  <img src="https://contrib.rocks/image?repo=KhuzaimaIrfan/Image-Clustering-Retrieval-System" />
 </a>
 
 ---
