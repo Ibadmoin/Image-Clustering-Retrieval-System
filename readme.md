@@ -197,7 +197,10 @@ This is a group project developed by:
 
 <a href="https://github.com/Ibadmoin/Image-Clustering-Retrieval-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Ibadmoin/Image-Clustering-Retrieval-System" />
-  <img src="https://contrib.rocks/image?repo=KhuzaimaIrfan/Image-Clustering-Retrieval-System" />
+</a>
+
+<a href="https://github.com/KhuzaimaIrfan">
+  <img src="https://github.com/KhuzaimaIrfan.png" width="48" height="48" style="border-radius: 50%" alt="KhuzaimaIrfan" title="KhuzaimaIrfan"/>
 </a>
 
 ---
