@@ -163,7 +163,7 @@ Watch a complete demo of the Image Clustering & Retrieval System:
 
 [![Watch Demo Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://youtu.be/3HU4hSOFNjY))](https://drive.google.com/file/d/1-PueAQOrQ68UqHC_JYtvyx22S5SXMKRR/view)
 
-**[Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1-PueAQOrQ68UqHC_JYtvyx22S5SXMKRR/view)**
+**[Click here to watch the demo video]([https://drive.google.com/file/d/1-PueAQOrQ68UqHC_JYtvyx22S5SXMKRR/view](https://youtu.be/3HU4hSOFNjY))**
 
 ---
 
