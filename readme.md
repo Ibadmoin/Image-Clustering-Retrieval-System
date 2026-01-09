@@ -210,7 +210,6 @@ This is a group project developed by:
 
 For questions or suggestions, please reach out to the project maintainer:
 - **GitHub**: [Ibadmoin](https://github.com/Ibadmoin)
-- **GitHub**: [KhuzaimaIrfan](https://github.com/KhuzaimaIrfan/)
 
 
 ---
