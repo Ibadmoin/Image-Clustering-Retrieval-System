@@ -200,7 +200,7 @@ This is a group project developed by:
 </a>
 
 <a href="https://github.com/KhuzaimaIrfan">
-  <img src="https://github.com/KhuzaimaIrfan.png" alt="KhuzaimaIrfan" title="KhuzaimaIrfan"/>
+  <img src="https://github.com/KhuzaimaIrfan.png" width="50" style="border-radius: 50%;" alt="KhuzaimaIrfan" title="KhuzaimaIrfan"/>
 </a>
 
 ---
